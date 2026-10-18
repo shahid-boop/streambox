@@ -1,2 +1,2 @@
+https://aistudio.google.com/apps/ae53a1c5-f05c-44ed-b03e-0108a4b5adb2?showAssistant=true&showCode=true
 
-https://aistudio.google.com/apps/771dc39e-767d-468a-8b79-fbb22c7032ec?showAssistant=true&showPreview=true
